@@ -1,0 +1,1 @@
+console.log("Welcome to the Employee Wage Computation problem in Java Script");
